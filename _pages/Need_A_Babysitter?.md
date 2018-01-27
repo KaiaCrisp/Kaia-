@@ -1,7 +1,7 @@
 ---
 layout: single 
-permalink: /Need_A_Babysitter?/
-title: Need_A_Babysitter?
+permalink: /need_a_babysitter?/
+title: Need A Babysitter?
 author_profile: true
 ---
 
