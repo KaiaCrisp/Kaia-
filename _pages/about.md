@@ -5,4 +5,4 @@ title: About
 author_profile: true
 ---
 
-Hi My name is Kaia and I have a dog named Royce. Royce is a white maltipoo and loves to be pet, and play fetch. 
+Hi my name is Kaia and I have a dog named Royce. Royce is a white maltipoo and loves to be pet, and play fetch. 
